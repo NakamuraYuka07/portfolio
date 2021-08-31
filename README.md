@@ -11,8 +11,8 @@
 ### 主な利用シーン
 化粧品の検索や、自分に合わない化粧品成分が入っていないものを探す時
 ## 設計書
-ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-VYR3gIFc65R)からご確認いただけます。
-利用者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1kOLNHk73NmVuLNrF9H6Ba03aaQrKo3THIn7eXMms0sg/edit#slide=id.ged14a6735b_0_347)からご確認いただけます。
+ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-VYR3gIFc65R)からご確認いただけます。<br>
+利用者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1kOLNHk73NmVuLNrF9H6Ba03aaQrKo3THIn7eXMms0sg/edit#slide=id.ged14a6735b_0_347)からご確認いただけます。<br>
 管理者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1Ad1du_4_NHXTh5_4bJFGkIvh0AAyXIoqTHK6eTB-Gv4/edit#slide=id.p)からご確認いただけます。
 
 ## チャレンジ要素一覧
