@@ -11,7 +11,9 @@
 ### 主な利用シーン
 化粧品の検索や、自分に合わない化粧品成分が入っていないものを探す時
 ## 設計書
-
+ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-VYR3gIFc65R)からご確認いただけます。
+利用者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1kOLNHk73NmVuLNrF9H6Ba03aaQrKo3THIn7eXMms0sg/edit#slide=id.ged14a6735b_0_347)からご確認いただけます。
+管理者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1Ad1du_4_NHXTh5_4bJFGkIvh0AAyXIoqTHK6eTB-Gv4/edit#slide=id.p)からご確認いただけます。
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1R6cY2PKOygx3XVJTm8c9Q2YIheB2YJ1Kwe_Nl-f6-hY/edit#gid=0
@@ -25,5 +27,4 @@ https://docs.google.com/spreadsheets/d/1R6cY2PKOygx3XVJTm8c9Q2YIheB2YJ1Kwe_Nl-f6
 - IDE：Cloud9
 
 ## 使用素材
-- 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
-- 使用しない場合は、使用素材の項目をREADMEから削除してください。
+https://fontawesome.com/
