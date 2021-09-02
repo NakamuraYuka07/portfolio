@@ -17,6 +17,7 @@
 ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-VYR3gIFc65R)からご確認いただけます。<br>
 利用者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1kOLNHk73NmVuLNrF9H6Ba03aaQrKo3THIn7eXMms0sg/edit#slide=id.ged14a6735b_0_347)からご確認いただけます。<br>
 管理者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1Ad1du_4_NHXTh5_4bJFGkIvh0AAyXIoqTHK6eTB-Gv4/edit#slide=id.p)からご確認いただけます。
+テーブル定義書は[こちら](https://docs.google.com/spreadsheets/d/1O3VoYPbSys-nXslOIzdEIjw9KMN0Mbkh4QZmQfv-SfM/edit#gid=1373217982)からご確認いただけます。
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1R6cY2PKOygx3XVJTm8c9Q2YIheB2YJ1Kwe_Nl-f6-hY/edit#gid=0
