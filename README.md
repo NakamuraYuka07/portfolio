@@ -22,7 +22,7 @@ ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-V
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1R6cY2PKOygx3XVJTm8c9Q2YIheB2YJ1Kwe_Nl-f6-hY/edit#gid=0
-（コース名は確認取れてから記載します。現在確認中です。）
+
 
 ## 開発環境
 - OS：Linux(CentOS)
