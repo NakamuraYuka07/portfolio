@@ -12,7 +12,8 @@
 ### ターゲットユーザ
 主に10代から50代の女性、化粧品に興味がある方達
 ### 主な利用シーン
-化粧品の検索や、自分に合わない化粧品成分が入っていないものを探す時
+化粧品の検索や、自分に合わない化粧品成分が入っていないものを探す時.
+
 ## 設計書
 ER図とUIflowsは[こちら](https://app.diagrams.net/#G15Og9OxoNsSU5GGL5jll9-VYR3gIFc65R)からご確認いただけます。<br>
 利用者のワイヤーフレームは[こちら](https://docs.google.com/presentation/d/1kOLNHk73NmVuLNrF9H6Ba03aaQrKo3THIn7eXMms0sg/edit#slide=id.ged14a6735b_0_347)からご確認いただけます。<br>
